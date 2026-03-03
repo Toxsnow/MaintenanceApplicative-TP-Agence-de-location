@@ -1,0 +1,20 @@
+# Fichiers generes
+/bin/
+/build/
+/.gradle/
+
+# IDE Eclipse
+.classpath
+.project
+.settings/
+
+# IDE IntelliJ
+.idea/
+*.iml
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
